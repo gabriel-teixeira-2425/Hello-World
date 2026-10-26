@@ -1,39 +1,42 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&height=70&lines=%3E_+Iniciando+Wello-World...;%3E_+Validando+ambiente+Python...;print('Construindo+a+base+linha+por+linha!')" alt="Terminal Interativo" />
+
 # 🌍 Wello-World
+**Laboratório de Lógica, Fundamentos e Arquitetura em Python**
 
-<img src="https://img.shields.io/badge/Status-Em%20Evolu%C3%A7%C3%A3o-00F5D4?style=for-the-badge&logo=git&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<br>
 
-> *"Construindo uma base sólida, linha por linha, rumo ao domínio do código."*
+<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
+<img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Clean_Code-Focado-FF6B6B?style=for-the-badge" alt="Clean Code" />
+
+<br><br>
+
+<i>"A excelência na engenharia de software não nasce na complexidade dos frameworks, mas no domínio absoluto dos fundamentos."</i>
 
 </div>
 
----
-
-## 🚀 Sobre o Projeto
-
-O **Wello-World** é o repositório que marca o recomeço e a consolidação da minha jornada na programação. O foco total aqui é dominar os pilares essenciais do desenvolvimento de software com uma base técnica rigorosa.
-
-### 🎯 Objetivos Principais
-- 🧠 **Lógica de Programação:** Desenvolvimento de algoritmos eficientes e resolução de problemas.
-- 🧹 **Clean Code:** Aplicação de boas práticas de legibilidade e estruturação de código.
-- 🔄 **Versionamento:** Evolução contínua no fluxo de trabalho com Git e GitHub.
+<br>
 
 ---
 
-## 📂 Estrutura do Repositório
+## 🚀 O Propósito
 
-| Arquivo / Módulo | Descrição do Conteúdo |
-| :--- | :--- |
-| `PrimeiroPrograma.py` | O ponto de partida da jornada em Python[cite: 1]. |
+O **Wello-World** é mais do que um repositório de código; é um ambiente de consolidação técnica. O objetivo principal é reconstruir e dominar os pilares da programação, garantindo que cada linha escrita cumpra requisitos rigorosos de **performance, legibilidade e boas práticas**.
 
----
+- 🧠 **Lógica e Algoritmos:** Resolução estruturada de problemas complexos.
+- 🧹 **Clean Code:** Nomenclatura semântica, indentação perfeita e código autoexplicativo.
+- ⚙️ **Versionamento:** Commits semânticos e histórico limpo utilizando Git.
 
-## ⚙️ Como Executar o Projeto
+<br>
 
-Certifique-se de ter o [Python](https://www.python.org/) instalado na sua máquina. Abra o seu terminal e execute:
+## 📂 Arquitetura do Repositório
 
-```bash
-python PrimeiroPrograma.py
+A organização do projeto reflete um padrão modular e escalável, preparando o terreno para algoritmos mais complexos no futuro:
+
+```text
+📦 Wello-World
+ ┣ 📂 docs/                  # Documentação de apoio e anotações teóricas
+ ┣ 📜 PrimeiroPrograma.py    # Ponto de partida: Sintaxe básica e I/O
+ ┗ 📜 README.md              # Documentação central do projeto
