@@ -37,6 +37,5 @@ A organização do projeto reflete um padrão modular e escalável, preparando o
 
 ```text
 📦 Wello-World
- ┣ 📂 docs/                  # Documentação de apoio e anotações teóricas
  ┣ 📜 PrimeiroPrograma.py    # Ponto de partida: Sintaxe básica e I/O
  ┗ 📜 README.md              # Documentação central do projeto
